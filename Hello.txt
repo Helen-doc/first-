@@ -1,1 +1,3 @@
-Hello
+git add.
+git commit- m Здесь что то надо написать
+git push - u origin develop
